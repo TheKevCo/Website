@@ -60,9 +60,6 @@ width: 50%;
 margin: 0 auto;
 line-height: 2;
 }
-.skill1{
-text-align: left;
-}
 
 hr {
 background-color: #E1FFEE;
@@ -73,20 +70,16 @@ width: 5%;
 border-width: thick;
    }
 
-.skill2{
-text-align: right;
-}
+
 
 .python {
 width: 300px;
 height: 300px;
-float: left;
 }
 
 .screwdriver {
 width: 300px;
 height: 300px;
-float: right;
 }
 
 .service-bio {
